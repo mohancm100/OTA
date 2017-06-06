@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <A7010a48>
-            <Filename>RR-N-v5.8.3-20170517-A7010a48-official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170606-A7010a48-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/A7010a48/RR-N-v5.8.3-20170517-A7010a48-official.zip/download</RomUrl>
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/A7010a48/RR-N-v5.8.3-20170606-A7010a48-official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
