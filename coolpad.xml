@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <CP8676_I02>
-            <Filename>RR-N-v5.8.3-20170604-CP8676_I02-official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170608-CP8676_I02-official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/CP8676_I02/RR-N-v5.8.3-20170604-CP8676_I02-official.zip/download</RomUrl>
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/CP8676_I02/RR-N-v5.8.3-20170608-CP8676_I02-official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
